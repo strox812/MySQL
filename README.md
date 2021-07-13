@@ -1,2 +1,2 @@
 # MYSQL
-My practic in MySQL
+My practice in MySQL
