@@ -1,3 +1,9 @@
+drop database if exists shop;
+create database shop;
+USE shop;
+
+--Создаю таблицы в базе данных:
+
 drop table if exists catalogs;
 create table catalogs (
 id INT unsigned,
